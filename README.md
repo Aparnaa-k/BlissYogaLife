@@ -1,4 +1,3 @@
-# BlissYogaLife
 Aparnaa ’s Capstone definition (Bliss yoga life)                       
 
 How would I like to improve the world?
@@ -46,4 +45,5 @@ Squad’s Potential solutions:
 2)If anyone is unable to attend the sessions there can be having the recorded videos which can be utilised
 later. 
 
-Technical solutions:
+Technical solutions
+
