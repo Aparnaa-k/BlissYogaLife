@@ -6,10 +6,8 @@ import "./index.css";
 
 function App() {
     return (
-   
-
-
-   nmk );
+  <div>apae</div>
+   );
     
     
 }
