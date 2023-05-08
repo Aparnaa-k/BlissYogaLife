@@ -1,0 +1,5 @@
+{
+    "editor.FormateOnSave":true,
+    "editor.FormateOnPaste": true,
+    "editor.defaultFormatter": "asharp.prettier.vscode"
+}
